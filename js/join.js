@@ -411,5 +411,4 @@ copyBtn.addEventListener('click', () => {
   navigator.clipboard.writeText(`Real Dev Squad Verification Link: ${url}`);
 });
 
-
-module.exports = {countWords};
+module.exports = { countWords };

@@ -4,6 +4,6 @@ const config = {
   collectCoverageFrom: ['src/**/*'],
   reporters: ['default'],
   coverageDirectory: 'coverage',
-  testEnvironment: "node",
+  testEnvironment: 'node',
 };
 module.exports = config;
